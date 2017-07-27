@@ -6,21 +6,26 @@ Code and data for guided auto encoder and immunology data analysis.
 This is a python package that is distributed with the aim on ensuring reproducibility.
 The code was designed and tested to work specifically with the data in the package.
 
-## main scripts
+## Main scripts
 
-1. Figures and toy examples for Guided Auto Encoder
+1. Figures and toy examples for Guided Auto Encoder: 
+
 gae_toy.py
 
-2. Cross-validation experiment on GAE and Extraction of Immune Age
+2. Cross-validation experiment on GAE and Extraction of Immune Age:
+
 gae_immuneAge.py
 
-3. Analysis of features' distributions in immune data
+3. Analysis of features' distributions in immune data:
+
 immune_feature_distribution.py
 
-4. Immunology monotype identifcation
+4. Immunology monotype identifcation:
+
 immune_type.py
 
-5. Immunology Gene expression analysis
+5. Immunology Gene expression analysis:
+
 immune_gene_analysis.py
 
 
